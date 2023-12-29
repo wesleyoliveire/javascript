@@ -175,7 +175,7 @@ function Apertou(e) {
     lista.appendChild(newLi);
 
     // Limpar o campo de texto
-    input.value = '';
+    input.value = "";
   }
 
 }
